@@ -1,5 +1,5 @@
 const GlobalConfigs = {
-  pageTitle: "AZINO777",
+  pageTitle: "AZINO777mobile",
   navigationType: ProjectConsts.allNavigationTypes.singlePage,  //can be hamburger, singlePage, listMenu
   useIFramesEverywhere: false,
   homeSitePageUrl: "https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218",
