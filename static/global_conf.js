@@ -2,22 +2,22 @@ const GlobalConfigs = {
   pageTitle: "AZINO777mobile",
   navigationType: ProjectConsts.allNavigationTypes.singlePage,  //can be hamburger, singlePage, listMenu
   useIFramesEverywhere: false,
-  homeSitePageUrl: "https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218",
+  homeSitePageUrl: "https://azinomobile.net/?project=azino777&source=mobiversion",
   menuItems: [
-    //{icon: 'home', text: 'Главная', url:"https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218"},
+    //{icon: 'home', text: 'Главная', url:"https://azinomobile.net/?project=azino777&source=mobiversion"},
     {
       icon: 'list', text: 'Видео',
-      url: "https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218", notLoadToIFrame: true
+      url: "https://azinomobile.net/?project=azino777&source=mobiversion", notLoadToIFrame: true
     },
     //{icon: 'photo', text: 'Игры',
-    // url:"https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218"},
+    // url:"https://azinomobile.net/?project=azino777&source=mobiversion"},
     {
       icon: 'info', text: 'О нас',
-      url: "https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218"
+      url: "https://azinomobile.net/?project=azino777&source=mobiversion"
     },
     {
       icon: 'mail', text: 'Контакты',
-      url: "https://azinomobile.net/?project=azino777&author=newlyki-tlt&source=mobile&type=apps&roll=280218"
+      url: "https://azinomobile.net/?project=azino777&source=mobiversion"
     },
     {
       icon: 'group', text: 'О разработчике', url: "",
